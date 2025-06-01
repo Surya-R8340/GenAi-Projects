@@ -14,3 +14,12 @@ Project for building a Retrieval-Augmented Generation (RAG) model capable of han
 - **HuggingFaceEmbeddings**: A library used to generate embeddings for document chunks.
 - **FAISS**: A library used to implement the VectorStore.
 - **ChatPromptTemplate**: A library used to create a prompt template for the LLM.
+
+
+## Getting Started
+### Prerequisites
+Python Version 3.11.
+
+
+### Installation
+Step-by-step instructions on how to install and set up your project.
