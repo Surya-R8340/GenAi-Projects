@@ -22,4 +22,8 @@ Python Version 3.11.
 
 
 ### Installation
-Step-by-step instructions on how to install and set up your project.
+pip install requirements.txt
+**install Ollama (for running LLM's locally)
+Run "ollama pull mistral" to download the model
+Start the Ollama server "ollama serve"
+for more info on models check https://ollama.com/search
