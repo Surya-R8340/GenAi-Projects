@@ -1,0 +1,9 @@
+streamlit
+huggingface-hub
+sentence-transformers
+pypdf
+scikit-learn
+numpy
+faiss-cpu
+torch
+langchain-community
